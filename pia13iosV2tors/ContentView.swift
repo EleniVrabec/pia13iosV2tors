@@ -18,6 +18,9 @@ struct ContentView: View {
         }
         .padding()
     }
+    func nyFunc() {
+        //test
+    }
 }
 
 #Preview {
