@@ -9,6 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+        //Published
         VStack {
             Image(systemName: "globe")
                 .imageScale(.large)
